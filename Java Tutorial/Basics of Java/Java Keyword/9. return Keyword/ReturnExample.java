@@ -9,5 +9,5 @@ class ReturnExample {
         return a + b; // Returns the sum of a and b
     }
 }
-// The return keyword is used to return a value from a method.
+
 

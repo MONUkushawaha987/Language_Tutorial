@@ -1,5 +1,4 @@
-// Creating a method
-// that prints a message
+// Creating a method that prints a message
 public class Method {
   
     // Method to print message
